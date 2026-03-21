@@ -10,8 +10,6 @@ A collection of datasets, papers, and resources for multimodal recommendation
 
 ## Paper List
 
-| Title | Year | Venue | Code |
-|---|---|---|---|
-| VBPR: Visual Bayesian Personalized Ranking | 2016 | AAAI | [GitHub](https://github.com/example/example) |
-| DVBPR: Deep Visual Bayesian Personalized Ranking | 2017 | CVPR | [GitHub](https://github.com/example/example) |
-| CVAE for Recommendation | 2017 | KDD | [GitHub](https://github.com/example/example) |
+| Name | Year | Source |paper| Code |
+|---|---|---|---|---|
+| M3SRec | 2023 | CIKM'23 | [ACM](https://doi.org/10.1145/3583780.3614978) | [GitHub](https://github.com/RUCAIBox/M3SRec) |
