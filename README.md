@@ -10,6 +10,7 @@ A collection of datasets, papers, and resources for multimodal recommendation
 
 | Name | Year | Authors | Source | Paper | Code |
 |---|---:|---|---|---|---|
+| Learning Image and User Features for Recommendation in Social Networks (DUIF) | 2015 | Xue Geng, Hanwang Zhang, Jingwen Bian, Tat-Seng Chua | ICCV'15 | [CVF](https://openaccess.thecvf.com/content_iccv_2015/html/Geng_Learning_Image_and_ICCV_2015_paper.html) | Not found |
 | Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention (ACF) | 2017 | Jingyuan Chen, Hanwang Zhang, Xiangnan He, Liqiang Nie, Wei Liu, Tat-Seng Chua | SIGIR'17 | [ACM](https://doi.org/10.1145/3077136.3080797) | [GitHub](https://github.com/ChenJingyuan91/ACF) |
 | CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations (CB2CF) | 2019 | Oren Barkan, Noam Koenigstein, Eylon Yogev, Ori Katz | RecSys'19 | [ACM](https://doi.org/10.1145/3298689.3347038) | Not found |
 | Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network: Towards Visually Explainable Recommendation (VECF) | 2019 | Xu Chen, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Zheng Qin, Hongyuan Zha | SIGIR'19 | [ACM](https://doi.org/10.1145/3331184.3331254) | [GitHub](https://github.com/malizheng/VECF) |
@@ -23,5 +24,7 @@ A collection of datasets, papers, and resources for multimodal recommendation
 | Multi-modal Mixture of Experts Representation Learning for Sequential Recommendation (M3SRec) | 2023 | Shuqing Bian, Xingyu Pan, Wayne Xin Zhao, Jinpeng Wang, Chuyuan Wang, Ji-Rong Wen | CIKM'23 | [ACM](https://doi.org/10.1145/3583780.3614978) | Not found |
 | VIP5: Towards Multimodal Foundation Models for Recommendation (VIP5) | 2023 | Shijie Geng, Juntao Tan, Shuchang Liu, Zuohui Fu, Yongfeng Zhang | Findings of EMNLP'23 | [ACL](https://aclanthology.org/2023.findings-emnlp.644/) | [GitHub](https://github.com/jeykigung/VIP5) |
 | A Multi-modal Modeling Framework for Cold-start Short-video Recommendation (M3CSR) | 2024 | Gaode Chen, Ruina Sun, Yuezihan Jiang, Jiangxia Cao, Qi Zhang, Jingjian Lin, Han Li, Kun Gai, Xinghua Zhang | RecSys'24 | [ACM](https://doi.org/10.1145/3640457.3688098) | Not found |
+| LGMRec: Local and Global Graph Learning for Multimodal Recommendation (LGMRec) | 2024 | Zhiqiang Guo, Jianjun Li, Guohui Li, Chaoyang Wang, Si Shi, Bin Ruan | AAAI'24 | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28688) | [GitHub](https://github.com/georgeguo-cn/LGMRec) |
 | PEARL: A Dual-layer Graph Learning for Multimodal Recommendation (PEARL) | 2025 | Yuzhuo Dang, Wanyu Chen, Zhiqiang Pan, Yuxiao Duan, Fei Cai, Honghui Chen | Information Fusion'25 | [ScienceDirect](https://doi.org/10.1016/j.inffus.2025.103168) | [GitHub](https://github.com/Yuzhuo-Dang/PEARL) |
+| Diffusion Model as a Base for Cold Item Recommendation (DMCIR) | 2025 | Jungkyu Han, Sejin Chun | Applied Sciences'25 | [MDPI](https://doi.org/10.3390/app15094784) | [GitHub](https://github.com/JungkyuHan/DMCIR) |
 
