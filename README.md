@@ -1,7 +1,11 @@
 # A Comprehensive Survey on Multimodal Recommendation: Encoding, Fusion, and Optimization
 A collection of datasets, papers, and resources for multimodal recommendation
-## Dataset List
 
+## Multimodal Datasets
+| Dataset | Domain | Modalities | Scale | Link | Notes |
+|---|---|---|---|---|---|
+| Amazon Review (e.g., Clothing / Sports) | E-commerce | Text, Image (subset-dependent) | 20.98M users / 9.35M items / 82.83M ratings | [Link](https://jmcauley.ucsd.edu/data/amazon/) | Large Amazon review corpus; commonly used to build Clothing, Sports, Baby and other multimodal subsets |
+| Yelp | Local Business / POI | Text, Image | 1.99M users / 150,346 businesses / 6.99M reviews / 200,100 pictures | [Link](https://business.yelp.com/data/resources/open-dataset/) | Review-rich benchmark with business photos |
 | MIND | News | Text, Image | 1M users / 160k+ news / 15M+ impressions | [Link](https://msnews.github.io/) | Large-scale news recommendation dataset with rich text and images |
 | KuaiRec | Short Video | Text, Image, Video metadata | Million-level interactions; fully observed user-item matrix | [Link](https://kuairec.com/) | Public short-video recommendation benchmark from Kuaishou |
 | MicroLens | Micro-video | Text, Image, Audio, Video, Comments | 3M users / 1M videos / 1B interactions | [Link](https://github.com/westlake-repl/MicroLens) | Large multimodal micro-video dataset; includes raw multimodal content |
