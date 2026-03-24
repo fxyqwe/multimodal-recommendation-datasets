@@ -1,4 +1,4 @@
-# multimodal-recommendation-datasets
+# A Comprehensive Survey on Multimodal Recommendation: Encoding, Fusion, and Optimization
 A collection of datasets, papers, and resources for multimodal recommendation
 ## Dataset List
 
