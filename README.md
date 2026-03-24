@@ -2,11 +2,16 @@
 A collection of datasets, papers, and resources for multimodal recommendation
 ## Dataset List
 
-| Dataset | Domain | Modalities | Link | Notes |
-|---|---|---|---|---|
-| Amazon Clothing | E-commerce | Text, Image | [Link](https://example.com) | Benchmark dataset |
-| Amazon Sports | E-commerce | Text, Image | [Link](https://example.com) | Benchmark dataset |
-| Yelp | POI | Text, Image | [Link](https://example.com) | Review-rich dataset |
+| MIND | News | Text, Image | 1M users / 160k+ news / 15M+ impressions | [Link](https://msnews.github.io/) | Large-scale news recommendation dataset with rich text and images |
+| KuaiRec | Short Video | Text, Image, Video metadata | Million-level interactions; fully observed user-item matrix | [Link](https://kuairec.com/) | Public short-video recommendation benchmark from Kuaishou |
+| MicroLens | Micro-video | Text, Image, Audio, Video, Comments | 3M users / 1M videos / 1B interactions | [Link](https://github.com/westlake-repl/MicroLens) | Large multimodal micro-video dataset; includes raw multimodal content |
+| PixelRec | Stream Media / Image Recommendation | Text, Image | 30M users / 400k images / 200M interactions | [Link](https://github.com/westlake-repl/PixelRec) | Large-scale raw-pixel recommendation benchmark |
+| NineRec | Multi-domain Feed Recommendation | Text, Image | 1 source dataset + 9 target datasets | [Link](https://github.com/westlake-repl/NineRec) | Benchmark suite for multi-domain and cross-domain recommendation |
+| HM | Fashion | Text, Image | 100k images (processed release in related repo) | [Link](https://github.com/westlake-repl/IDvs.MoRec) | Common fashion dataset used in multimodal recommendation experiments |
+| Bili | Video | Text, Image | Processed release available in related repo | [Link](https://github.com/westlake-repl/IDvs.MoRec) | Video recommendation dataset used in multimodal recommendation experiments |
+| KuaiSAR | Video Search & Recommendation | Text, Image, Search Behavior | 25,877 users / 6,890,707 items / 19,664,885 actions | [Link](https://kuaisar.github.io/) | Joint search-and-recommendation benchmark |
+| Tenrec | Video / Article / Multi-scenario | Mainly text + interaction features | 5M users / 140M interactions | [Link](https://tenrec0.github.io/) | Large-scale benchmark covering multiple recommendation scenarios |
+| MovieLens | Movie | Text / Poster metadata (when augmented) | multiple versions available | [Link](https://grouplens.org/datasets/movielens/) | Not natively multimodal, but often extended with posters and plots |
 
 ## Related Papers
 | Name | Year | Authors | Source | Paper | Code |
