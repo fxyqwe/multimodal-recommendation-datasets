@@ -4,21 +4,27 @@ A collection of datasets, papers, and resources for multimodal recommendation
 ## Multimodal Datasets
 | Dataset | Domain | Modalities | Scale | Link | Notes |
 |---|---|---|---|---|---|
-| Last.FM | Music | Image, Text, Audio | 186K+ | [Link](https://www.heywhale.com/mw/dataset/6149be3bf92ea00017c07cf1) | Listed in both repos as a multimodal music dataset |
-| TikTok | Micro-video | Image, Text, Video, Audio | 726K+ | [Link](https://paperswithcode.com/dataset/tiktok) | Listed in both repos as a multimodal micro-video dataset |
-| Amazon Fashion | Fashion | Image, Text | 1M | [Link](https://jmcauley.ucsd.edu/data/amazon/) | Fashion subset from Amazon data |
-| POG | Fashion | Image, Text | 1M+ | [Link](https://drive.google.com/file/d/1x2yWCUf7FlJ0irUPJd9wq-c2dK6t4P8w/view) | Fashion dataset used in outfit recommendation |
-| Taobao | Fashion | Image, Text | 1M+ | [Link](https://tianchi.aliyun.com/dataset) | Fashion recommendation dataset listed in both repos |
-| Book-Crossings | Book | Image, Text | 1M+ | [Link](https://www2.informatik.uni-freiburg.de/~cziegler/BX/) | Book recommendation dataset with multimodal extensions |
-| Kwai | Micro-video | Image, Text, Video | 1M+ | [Link](https://zenodo.org/records/2559644) | Short-video recommendation dataset |
-| Yelp | POI | Image, Text, POI metadata | 1M+ | [Link](https://www.yelp.com/dataset) | POI/business recommendation dataset |
-| Amazon Books | Book | Image, Text | 3M | [Link](https://jmcauley.ucsd.edu/data/amazon/) | Amazon Books subset |
+| Last.FM | Music | Visual, Text, Audio | 186K+ | [Link](https://www.heywhale.com/mw/dataset/62fe1aeddcb1d60017cf0008) | Music recommendation dataset |
+| Tiktok | Micro-video | Visual, Text, Video, Audio | 726K+ | [Link](https://paperswithcode.com/dataset/tiktok) | Short-video recommendation dataset |
+| Amazon Fashion | Fashion | Visual, Text | 1M+ | [Link](https://jmcauley.ucsd.edu/data/amazon/) | Fashion recommendation subset from Amazon |
+| POG | Fashion | Visual, Text | 1M+ | [Link](https://drive.google.com/file/d/1nVQ5tD7Qx5M7vBf26QhP5i6XJx0xKq0p/view) | Outfit/fashion recommendation dataset |
+| Taobao | Fashion | Visual, Text | 1M+ | [Link](https://tianchi.aliyun.com/dataset) | Fashion recommendation dataset |
+| Book-Crossings | Book | Visual, Text | 1M+ | [Link](https://www2.informatik.uni-freiburg.de/~cziegler/BX/) | Book recommendation dataset |
+| Douban | Movie, Book, Music | Visual, Text | 1M+ | [Link](https://github.com/liuqidong07/Awesome-Multimodal-Recommender-Systems) | Multi-domain multimedia recommendation dataset |
+| Kwai | Micro-video | Visual, Text, Video | 1M+ | [Link](https://zenodo.org/records/2558177) | Micro-video recommendation dataset |
+| Yelp | POI | Visual, Text, POI | 1M+ | [Link](https://www.yelp.com/dataset) | POI recommendation dataset |
+| Amazon Books | Book | Visual, Text | 3M | [Link](https://jmcauley.ucsd.edu/data/amazon/) | Book recommendation subset from Amazon |
 | Tianchi News | News | Text | 3M+ | [Link](https://tianchi.aliyun.com/dataset) | News recommendation dataset |
-| TMall | Fashion | Image, Text | 8M+ | [Link](https://tianchi.aliyun.com/dataset) | Large-scale fashion recommendation dataset |
-| MIND | News | Image, Text | 15M+ | [Link](https://msnews.github.io/) | Large-scale news recommendation benchmark |
-| MovieLens / MovieLens+IMDB | Movie | Image, Text | 25M | [Link](https://grouplens.org/datasets/movielens/) | One repo uses “MovieLens+IMDB”, the other uses “MovieLens” |
-| MSD | Music | Text, Audio | 48M+ | [Link](https://millionsongdataset.com/) | Million Song Dataset |
-| Amazon | E-commerce | Image, Text | 100M+ | [Link](https://cseweb.ucsd.edu/~jmcauley/datasets.html) | Large-scale Amazon source used to build multimodal subsets |
+| TMall | Fashion | Visual, Text | 8M+ | [Link](https://tianchi.aliyun.com/dataset) | Fashion recommendation dataset |
+| MIND | News | Visual, Text | 15M+ | [Link](https://msnews.github.io/) | Large-scale news recommendation dataset |
+| Movielens | Movie | Visual, Text | 25M | [Link](https://grouplens.org/datasets/movielens/) | Common movie recommendation benchmark |
+| MSD | Music | Text, Audio | 48M+ | [Link](https://millionsongdataset.com/) | Large-scale music dataset |
+| Amazon | E-commerce | Visual, Text | 100M+ | [Link](https://cseweb.ucsd.edu/~jmcauley/datasets.html) | Large-scale Amazon recommendation dataset |
+| MicroLens | Micro-video | Text, Image, Audio, Video, Comments | 3M users / 1M videos / 1B interactions | [Link](https://github.com/westlake-repl/MicroLens) | Large multimodal micro-video dataset with raw multimodal content |
+| PixelRec | Stream Media / Image Recommendation | Text, Image | 30M users / 400k images / 200M interactions | [Link](https://github.com/westlake-repl/PixelRec) | Large-scale raw-pixel recommendation benchmark |
+| NineRec | Multi-domain Feed Recommendation | Text, Image | 1 source dataset + 9 target datasets | [Link](https://github.com/westlake-repl/NineRec) | Benchmark suite for multi-domain and cross-domain recommendation |
+| KuaiSAR | Video Search & Recommendation | Text, Image, Search Behavior | 25,877 users / 6,890,707 items / 19,664,885 actions | [Link](https://kuaisar.github.io/) | Unified search-and-recommendation benchmark |
+| Tenrec | Video / Article / Multi-scenario | Mainly text + interaction features | 5M users / 140M interactions | [Link](https://tenrec0.github.io/) | Large-scale benchmark for multiple recommendation scenarios |
 
 ## Related Papers
 | Name | Year | Authors | Source | Paper | Code |
