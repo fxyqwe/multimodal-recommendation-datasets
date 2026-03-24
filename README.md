@@ -24,7 +24,6 @@ A collection of datasets, papers, and resources for multimodal recommendation
 | PixelRec | Stream Media / Image Recommendation | Text, Image | 30M users / 400k images / 200M interactions | [Link](https://github.com/westlake-repl/PixelRec) | Large-scale raw-pixel recommendation benchmark |
 | NineRec | Multi-domain Feed Recommendation | Text, Image | 1 source dataset + 9 target datasets | [Link](https://github.com/westlake-repl/NineRec) | Benchmark suite for multi-domain and cross-domain recommendation |
 | KuaiSAR | Video Search & Recommendation | Text, Image, Search Behavior | 25,877 users / 6,890,707 items / 19,664,885 actions | [Link](https://kuaisar.github.io/) | Unified search-and-recommendation benchmark |
-| Tenrec | Video / Article / Multi-scenario | Mainly text + interaction features | 5M users / 140M interactions | [Link](https://tenrec0.github.io/) | Large-scale benchmark for multiple recommendation scenarios |
 
 ## Related Papers
 | Name | Year | Authors | Source | Paper | Code |
