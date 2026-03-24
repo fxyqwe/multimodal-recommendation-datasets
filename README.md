@@ -10,7 +10,7 @@ A collection of datasets, papers, and resources for multimodal recommendation
 | POG | Fashion | Visual, Text | 1M+ | [Link](https://drive.google.com/file/d/1nVQ5tD7Qx5M7vBf26QhP5i6XJx0xKq0p/view) | Outfit/fashion recommendation dataset |
 | Taobao | Fashion | Visual, Text | 1M+ | [Link](https://tianchi.aliyun.com/dataset) | Fashion recommendation dataset |
 | Book-Crossings | Book | Visual, Text | 1M+ | [Link](https://www2.informatik.uni-freiburg.de/~cziegler/BX/) | Book recommendation dataset |
-| Douban | Movie, Book, Music | Visual, Text | 1M+ | [Link](https://github.com/liuqidong07/Awesome-Multimodal-Recommender-Systems) | Multi-domain multimedia recommendation dataset |
+| Douban | Movie, Book, Music | Visual, Text | 1M+ | [Link](https://www.kaggle.com/datasets/utmhikari/doubanmovieshortcomments) | Douban dataset source |
 | Kwai | Micro-video | Visual, Text, Video | 1M+ | [Link](https://zenodo.org/records/2558177) | Micro-video recommendation dataset |
 | Yelp | POI | Visual, Text, POI | 1M+ | [Link](https://www.yelp.com/dataset) | POI recommendation dataset |
 | Amazon Books | Book | Visual, Text | 3M | [Link](https://jmcauley.ucsd.edu/data/amazon/) | Book recommendation subset from Amazon |
