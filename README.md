@@ -22,7 +22,6 @@ A collection of datasets, papers, and resources for multimodal recommendation
 | Amazon | E-commerce | Visual, Text | 100M+ | [Link](https://cseweb.ucsd.edu/~jmcauley/datasets.html) | Large-scale Amazon recommendation dataset |
 | MicroLens | Micro-video | Text, Image, Audio, Video, Comments | 3M users / 1M videos / 1B interactions | [Link](https://github.com/westlake-repl/MicroLens) | Large multimodal micro-video dataset with raw multimodal content |
 | PixelRec | Stream Media / Image Recommendation | Text, Image | 30M users / 400k images / 200M interactions | [Link](https://github.com/westlake-repl/PixelRec) | Large-scale raw-pixel recommendation benchmark |
-| NineRec | Multi-domain Feed Recommendation | Text, Image | 1 source dataset + 9 target datasets | [Link](https://github.com/westlake-repl/NineRec) | Benchmark suite for multi-domain and cross-domain recommendation |
 | KuaiSAR | Video Search & Recommendation | Text, Image, Search Behavior | 25,877 users / 6,890,707 items / 19,664,885 actions | [Link](https://kuaisar.github.io/) | Unified search-and-recommendation benchmark |
 
 ## Related Papers
