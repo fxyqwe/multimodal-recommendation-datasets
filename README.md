@@ -8,7 +8,7 @@ A collection of datasets, papers, and resources for multimodal recommendation
 | Amazon Sports | E-commerce | Text, Image | [Link](https://example.com) | Benchmark dataset |
 | Yelp | POI | Text, Image | [Link](https://example.com) | Review-rich dataset |
 
-##Related Papers
+## Related Papers
 | Name | Year | Authors | Source | Paper | Code |
 |---|---:|---|---|---|---|
 | ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 | Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton | NeurIPS'12 | [NeurIPS](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) | [GitHub](https://github.com/computerhistory/AlexNet-Source-Code) |
