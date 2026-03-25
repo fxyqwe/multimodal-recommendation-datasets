@@ -1,7 +1,7 @@
 # A Comprehensive Survey on Multimodal Recommendation: Encoding, Fusion, and Optimization
 Authors: Rui Chen, Xiangyu Fan, Yanhuan Fan, Jianwei Zhang, Weizhi Meng, Xiangjie Kong, Fei Li and Bin Wu
 
-A collection of datasets, papers, and resources for multimodal recommendation
+This repository is built to support the systematic study of multimodal recommendation by organizing representative datasets, papers, and related resources in a unified manner. Consistent with the perspective of our survey, multimodal recommendation is not only concerned with how different modalities are encoded and fused, but also with how they are optimized to improve robustness, consistency, and recommendation quality. Therefore, before reviewing specific models and methods, we first summarize the publicly available datasets and research resources that have been widely used in this area, covering diverse domains, modalities, and application scenarios. We hope this repository can serve as a useful reference for researchers to better understand, reproduce, and extend recent advances in multimodal recommendation.
 
 ## Multimodal Datasets
 | Dataset | Domain | Modalities | Scale | Link | Notes |
