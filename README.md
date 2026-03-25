@@ -1,4 +1,6 @@
 # A Comprehensive Survey on Multimodal Recommendation: Encoding, Fusion, and Optimization
+Authors: Rui Chen, Xiangyu Fan, Yanhuan Fan, Jianwei Zhang, Weizhi Meng, Xiangjie Kong, Fei Li and Bin Wu
+
 A collection of datasets, papers, and resources for multimodal recommendation
 
 ## Multimodal Datasets
